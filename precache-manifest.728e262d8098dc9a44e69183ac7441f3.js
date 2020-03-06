@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65649dd924ef60ca94b39528072439c2",
+    "revision": "52d2d7348e94301de6836f32e97e50d7",
     "url": "/billsplitter/index.html"
   },
   {
-    "revision": "5e227f6937f18c8ff6e3",
+    "revision": "e4144c0834a35fcbaf68",
     "url": "/billsplitter/static/css/main.83a034e4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/billsplitter/static/js/2.0d013df7.chunk.js.LICENSE"
   },
   {
-    "revision": "5e227f6937f18c8ff6e3",
-    "url": "/billsplitter/static/js/main.eaa93d49.chunk.js"
+    "revision": "e4144c0834a35fcbaf68",
+    "url": "/billsplitter/static/js/main.d56a0212.chunk.js"
   },
   {
     "revision": "aa134d13345f18f684c4",
