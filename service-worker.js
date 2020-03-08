@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/billsplitter/precache-manifest.835ac749cd1671d370c7763b801c6b08.js"
+  "/billsplitter/precache-manifest.967d7468b38c0dfc902caddffd750be3.js"
 );
 
 self.addEventListener('message', (event) => {
