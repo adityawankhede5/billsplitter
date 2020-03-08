@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/billsplitter/static/css/main.83a034e4.chunk.css",
-    "main.js": "/billsplitter/static/js/main.7076b8b7.chunk.js",
-    "main.js.map": "/billsplitter/static/js/main.7076b8b7.chunk.js.map",
+    "main.js": "/billsplitter/static/js/main.a88db56e.chunk.js",
+    "main.js.map": "/billsplitter/static/js/main.a88db56e.chunk.js.map",
     "runtime-main.js": "/billsplitter/static/js/runtime-main.4e7b5049.js",
     "runtime-main.js.map": "/billsplitter/static/js/runtime-main.4e7b5049.js.map",
     "static/js/2.3fa55b29.chunk.js": "/billsplitter/static/js/2.3fa55b29.chunk.js",
     "static/js/2.3fa55b29.chunk.js.map": "/billsplitter/static/js/2.3fa55b29.chunk.js.map",
     "index.html": "/billsplitter/index.html",
-    "precache-manifest.8baf83967afd7a8563026fd3933d47b3.js": "/billsplitter/precache-manifest.8baf83967afd7a8563026fd3933d47b3.js",
+    "precache-manifest.23fe3f068b29c6755f5ece0c31adcefc.js": "/billsplitter/precache-manifest.23fe3f068b29c6755f5ece0c31adcefc.js",
     "service-worker.js": "/billsplitter/service-worker.js",
     "static/css/main.83a034e4.chunk.css.map": "/billsplitter/static/css/main.83a034e4.chunk.css.map",
     "static/js/2.3fa55b29.chunk.js.LICENSE": "/billsplitter/static/js/2.3fa55b29.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4e7b5049.js",
     "static/js/2.3fa55b29.chunk.js",
     "static/css/main.83a034e4.chunk.css",
-    "static/js/main.7076b8b7.chunk.js"
+    "static/js/main.a88db56e.chunk.js"
   ]
 }
